@@ -1,2 +1,2 @@
 # jscdn
-自建前端JS/CSS CDN
+自用不滥用
